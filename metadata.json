@@ -1,0 +1,5 @@
+{
+  "name": "CineStyle Studio",
+  "description": "A cinematic storyboard and visual style generator that analyzes video references to create unique stories and high-fidelity concept art.",
+  "requestFramePermissions": []
+}
